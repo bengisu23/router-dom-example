@@ -1,0 +1,25 @@
+{
+  "books": [
+    {
+      "id": "1",
+      "bookName": "poppy war",
+      "bookGenre": "fantasy",
+      "writerName": "R.F kuang",
+      "pageNumber": "260"
+    },
+    {
+      "id": "2",
+      "bookName": "light years",
+      "bookGenre": "science fiction",
+      "writerName": "kass morgan",
+      "pageNumber": "300"
+    },
+    {
+      "id": "1678872890722",
+      "bookName": "yellow face",
+      "writerName": "kuang",
+      "bookGenre": "deneme1",
+      "pageNumber": "546"
+    }
+  ]
+}
